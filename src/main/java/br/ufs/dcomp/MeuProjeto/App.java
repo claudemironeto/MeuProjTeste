@@ -1,9 +1,9 @@
 package br.ufs.dcomp.MeuProjeto;
 
 /**
- * Hello world!
+ * Hello world Neto!
  *
- */
+ *
 public class App 
 {
     public static void main( String[] args )
